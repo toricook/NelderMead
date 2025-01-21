@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NelderMead", "NelderMead\NelderMead.csproj", "{EDAAA4BD-8915-4AC2-9491-3E8E224156B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunNelderMead", "RunNelderMead\RunNelderMead.csproj", "{561DFC52-E142-44B3-97B9-C9B15AAE6DE9}"
+	ProjectSection(ProjectDependencies) = postProject
+		{EDAAA4BD-8915-4AC2-9491-3E8E224156B6} = {EDAAA4BD-8915-4AC2-9491-3E8E224156B6}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDAAA4BD-8915-4AC2-9491-3E8E224156B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDAAA4BD-8915-4AC2-9491-3E8E224156B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDAAA4BD-8915-4AC2-9491-3E8E224156B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDAAA4BD-8915-4AC2-9491-3E8E224156B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{561DFC52-E142-44B3-97B9-C9B15AAE6DE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{561DFC52-E142-44B3-97B9-C9B15AAE6DE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{561DFC52-E142-44B3-97B9-C9B15AAE6DE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{561DFC52-E142-44B3-97B9-C9B15AAE6DE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BACCCF33-1732-429B-8826-27FC06CD6F4D}
+	EndGlobalSection
+EndGlobal

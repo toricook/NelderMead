@@ -1,0 +1,14 @@
+C:\Code\NelderMead\NelderMead\obj\Debug\net8.0\NelderMead.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\NelderMead\NelderMead\obj\Debug\net8.0\NelderMead.AssemblyInfoInputs.cache
+C:\Code\NelderMead\NelderMead\obj\Debug\net8.0\NelderMead.AssemblyInfo.cs
+C:\Code\NelderMead\NelderMead\obj\Debug\net8.0\NelderMead.csproj.CoreCompileInputs.cache
+C:\Code\NelderMead\NelderMead\bin\Debug\net8.0\NelderMead.exe
+C:\Code\NelderMead\NelderMead\bin\Debug\net8.0\NelderMead.deps.json
+C:\Code\NelderMead\NelderMead\bin\Debug\net8.0\NelderMead.runtimeconfig.json
+C:\Code\NelderMead\NelderMead\bin\Debug\net8.0\NelderMead.dll
+C:\Code\NelderMead\NelderMead\bin\Debug\net8.0\NelderMead.pdb
+C:\Code\NelderMead\NelderMead\obj\Debug\net8.0\NelderMead.dll
+C:\Code\NelderMead\NelderMead\obj\Debug\net8.0\refint\NelderMead.dll
+C:\Code\NelderMead\NelderMead\obj\Debug\net8.0\NelderMead.pdb
+C:\Code\NelderMead\NelderMead\obj\Debug\net8.0\NelderMead.genruntimeconfig.cache
+C:\Code\NelderMead\NelderMead\obj\Debug\net8.0\ref\NelderMead.dll
